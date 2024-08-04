@@ -4,15 +4,15 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348140825959"
-global.ownername = "🕷BADBOI-v2-BUG🕷"
+global.ownernomer = "27680660202"
+global.ownername = "۝T²K_Livo👨🏿‍💻۝" 
 global.ytname = "🕷BADBOI-v2-BUG🕷"
 global.socialm = "GitHub: BADBOI-v1"
 global.location = "Africa, Nigeria, Ogun-state"
 
-global.ownernumber = '2348140825959,2348140825959,2348140825959'  //creator number
-global.ownername = '🕷BADBOI-v2-BUG🕷' //owner name
-global.botname = '🕷BADBOI-v2-BUG🕷' //name of the bot
+global.ownernumber = '27680660202, 27766438803'  //creator number
+global.ownername = '۝T²K_Livo👨🏿‍💻۝' //owner name
+global.botname = '⁂Ӫ ӬӸ  ӹӺ ǂǶ∅∆∇' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
@@ -26,15 +26,15 @@ global.wm = "BADBOI HACKER Tech."
 global.link = 'https://whatsapp.com/channel/0029VadCyFZGufJ2YW4bG42x'
 
 //custom prefix
-global.prefa = ['','!','.','#','&']
+global.prefa = ['!','.','#','&']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
-global.autoTyping = true //auto typing
-global.autorecordtype = true //auto typing + recording
+global.autoTyping = false //auto typing
+global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = true //auto update bio
-global.anti92 = true //auto block +92 
+global.anti92 = false //auto block +92 
 global.autoswview = true //auto view status/story
 
 //menu type 
@@ -53,13 +53,13 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 //reply messages
 global.mess = {
     done: 'Done !',
-    prem: 'This feature can be used by premium user only or by Badboi hacker 😂😁😂',
+    prem: 'This feature can be used by my master only😶‍🌫️', 
     admin: 'This feature can be used by admin only',
-    botAdmin: 'This feature can only be used when the bot is a group admin or by Badboi hacker 😂😁😂',
+    botAdmin: 'This feature can be used when I am admin or by my master only😶‍🌫️',
     owner: 'This feature can be used by owner only or by Badboi hacker 😂😁😂',
     group: 'This feature is only for groups',
-    private: 'This feature is only for private chats or by Badboi hacker 😂😁😂',
-    wait: 'In process... ',    
+    private: 'This feature is only for private chats or bymy master😶‍🌫️',
+    wait: 'Processing, please wait... ',    
     error: 'Error!',
 }
 
